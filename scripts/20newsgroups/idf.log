@@ -1,0 +1,35 @@
+Using dataset fetch_20newsgroups
+Multinomial Naive Bayes with TF-IDF:
+----------------------------------------
+f1: 0.8418
+accuracy: 0.8449
+precision: 0.8770
+recall: 0.8449
+Using dataset fetch_20newsgroups
+Random Forest with TF-IDF:
+----------------------------------------
+f1: 0.8343
+accuracy: 0.8369
+precision: 0.8450
+recall: 0.8369
+Using dataset fetch_20newsgroups
+Linear Support Vector with TF-IDF:
+----------------------------------------
+f1: 0.9215
+accuracy: 0.9213
+precision: 0.9225
+recall: 0.9213
+Using dataset fetch_20newsgroups
+K-Nearest Neighbors with TF-IDF:
+----------------------------------------
+f1: 0.7503
+accuracy: 0.7539
+precision: 0.7591
+recall: 0.7539
+Using dataset fetch_20newsgroups
+Nearest Centroid with TF-IDF:
+----------------------------------------
+f1: 0.7944
+accuracy: 0.7852
+precision: 0.8259
+recall: 0.7852

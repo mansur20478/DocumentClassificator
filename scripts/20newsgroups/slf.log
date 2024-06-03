@@ -1,0 +1,35 @@
+Using dataset fetch_20newsgroups
+Multinomial Naive Bayes with TF-SLF:
+----------------------------------------
+f1: 0.8699
+accuracy: 0.8723
+precision: 0.8910
+recall: 0.8723
+Using dataset fetch_20newsgroups
+Random Forest with TF-SLF:
+----------------------------------------
+f1: 0.8436
+accuracy: 0.8445
+precision: 0.8575
+recall: 0.8445
+Using dataset fetch_20newsgroups
+Linear Support Vector with TF-SLF:
+----------------------------------------
+f1: 0.9264
+accuracy: 0.9262
+precision: 0.9276
+recall: 0.9262
+Using dataset fetch_20newsgroups
+K-Nearest Neighbors with TF-SLF:
+----------------------------------------
+f1: 0.7731
+accuracy: 0.7764
+precision: 0.7766
+recall: 0.7764
+Using dataset fetch_20newsgroups
+Nearest Centroid with TF-SLF:
+----------------------------------------
+f1: 0.8474
+accuracy: 0.8414
+precision: 0.8662
+recall: 0.8414

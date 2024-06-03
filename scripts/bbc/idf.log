@@ -1,0 +1,35 @@
+Using dataset bbc
+Multinomial Naive Bayes with TF-IDF:
+----------------------------------------
+f1: 0.9407
+accuracy: 0.9416
+precision: 0.9463
+recall: 0.9416
+Using dataset bbc
+Random Forest with TF-IDF:
+----------------------------------------
+f1: 0.9552
+accuracy: 0.9551
+precision: 0.9565
+recall: 0.9551
+Using dataset bbc
+Linear Support Vector with TF-IDF:
+----------------------------------------
+f1: 0.9820
+accuracy: 0.9820
+precision: 0.9822
+recall: 0.9820
+Using dataset bbc
+K-Nearest Neighbors with TF-IDF:
+----------------------------------------
+f1: 0.9076
+accuracy: 0.9056
+precision: 0.9237
+recall: 0.9056
+Using dataset bbc
+Nearest Centroid with TF-IDF:
+----------------------------------------
+f1: 0.9575
+accuracy: 0.9573
+precision: 0.9591
+recall: 0.9573

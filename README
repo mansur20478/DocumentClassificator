@@ -1,0 +1,8 @@
+Problem: In companies, due to absence of tagging system, it is hard to find necessary document after long period of time.
+Solution: Make document classication system.
+
+Dataset:
+    fetch_20newsgroups (total ~17K):
+        SciKit-Learn Database
+    BBC full text classification (total ~2200):
+        https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification
