@@ -6,3 +6,9 @@ Dataset:
         SciKit-Learn Database
     BBC full text classification (total ~2200):
         https://www.kaggle.com/datasets/shivamkushwaha/bbc-full-text-document-classification
+
+Evaluation:
+    fetch_20newsgroups dataset:
+        Run bash scripts in scripts/20newsgroups
+    BBC dataset:
+        Run bash scripts in scripts/bbc
